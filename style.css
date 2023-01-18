@@ -85,6 +85,7 @@ header {
     font-weight: 400;
     color: var(--secondary-color);
     text-align: center;
+    width: 700px;
 
 }
 
